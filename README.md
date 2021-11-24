@@ -1,2 +1,2 @@
 # Sprint_3.
-Null.
+Este sprint tiene como propósito realizar una implementación con una API de prueba.
